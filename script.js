@@ -34,7 +34,7 @@ const grid = new LandmarkGrid(landmarkContainer, {
     showHidden: false,
     centered: true,
 });
-error
+
 function convertTime(time) {
         return time
     // return time.getFullYear() + '-' + ('0' + (time.getMonth() + 1)).slice(-2) + '-' +
