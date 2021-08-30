@@ -10,6 +10,7 @@ const poseOptions = {
     }
 };
 // Our input frames will come from here.
+
 const videoElement = document.getElementsByClassName('input_video')[0];
 const canvasElement = document.getElementsByClassName('output_canvas')[0];
 const controlsElement = document.getElementsByClassName('control-panel')[0];
@@ -173,7 +174,7 @@ function onResults(results) {
         
     }
     document.getElementById('actionPrediction').innerHTML = msgAction;
-    //End Predictions 
+    //End Predictions
 
     document.getElementById('angle').innerHTML = `${angle}`;
     document.getElementById('shangle').innerHTML = `${shangle}`;
