@@ -13,6 +13,7 @@
                  &emsp;&emsp;&emsp; 3.  style.css
                  
  # Overview of The Foul Shot Training Mirror
+ ![alt text](PersonalFoulShotTrainingMirror_With_DNNsAndMachineLearningurl/FoulShotTrainingMirror_ImageThree.png)
  
-  ![Tux, the Linux mascot](images/tux.png)
+
  
