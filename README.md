@@ -12,7 +12,7 @@
                  &emsp;&emsp;&emsp; 2.  script.js  
                  &emsp;&emsp;&emsp; 3.  style.css
                  
- # Overview of The Foul Shot Training Mirror
+ # The Foul Shot Training Mirror
   ![Training Mirror](https://github.com/Z-App-Xpert/PersonalFoulShotTrainingMirror_With_DNNsAndMachineLearning/blob/main/Images/FoulShotTrainingMirror_ImageThree.png?raw=true)
 
  
