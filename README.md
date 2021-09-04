@@ -13,7 +13,8 @@
                  &emsp;&emsp;&emsp; 3.  style.css
                  
  # Overview of The Foul Shot Training Mirror
- ![alt text](PersonalFoulShotTrainingMirror_With_DNNsAndMachineLearningurl/FoulShotTrainingMirror_ImageThree.png)
+  ![Training Mirror](https://github.com/Z-App-Xpert/PersonalFoulShotTrainingMirror_With_DNNsAndMachineLearning/blob/main/Images/FoulShotTrainingMirror_ImageThree.png?raw=true)
+
  
 
  
