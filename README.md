@@ -11,3 +11,5 @@
                  &emsp;&emsp;&emsp; 1.  index.html  
                  &emsp;&emsp;&emsp; 2.  script.js  
                  &emsp;&emsp;&emsp; 3.  style.css
+                 
+ # Overview of The Foul Shot Training Mirror
