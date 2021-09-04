@@ -14,3 +14,5 @@
                  
  # Overview of The Foul Shot Training Mirror
  
+  ![Tux, the Linux mascot](images/tux.png)
+ 
