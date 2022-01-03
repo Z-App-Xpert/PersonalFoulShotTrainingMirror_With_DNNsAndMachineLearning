@@ -1,4 +1,6 @@
 # PersonalFoulShotTrainingMirror_With_DNNsAndMachineLearning
+- This repository is support for my Master's Thesis entitled [Live Perception and Real Time Motion Prediction with Deep Neural Networks
+and Machine Learning](https://dash.harvard.edu/handle/1/37370061). Submitted on 11/01/2021 and published on 11/08/2021.
 - This repository's content holds the classical programming site developed in Chapter VIII - Commonsense Baseline, for iteration two during the development of the Foul Shot Training Mirror. This approach is part of 'The Universal Workflow of Machine Learning' and the purpose is to see if a Deep Learning model, developed in iteration three, will begin to outperform this commonsense approach.  
 - ‘8_11_Data.csv’ resides here.  This data is used to train initial RNN models.
 - View The Foul Shot Training Mirror
